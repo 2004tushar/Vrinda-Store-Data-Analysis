@@ -78,6 +78,9 @@ This project provides a full sales analysis of **Vrinda Store** using Microsoft 
 
 ## 📊 Dashboard Preview
 
+![Dashboard Preview](DashBoard_preview.png)
+
+
 <div align="center">
   <img src="images/dashboard_preview.png" width="900">
 </div>
